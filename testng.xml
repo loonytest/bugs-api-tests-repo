@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" name="/Users/apple/IdeaProjects/learning-rest-assured">
+        <classes>
+            <class name="org.loonycorn.restassuredtests.BugsApiTests">
+                <methods>
+                    <include name="testPOSTCreateBugOne"/>
+                    <include name="testPOSTCreateBugTwo"/>
+                    <include name="testPOSTCreateBugThree"/>
+                    <include name="testGETRetrieveBugs"/>
+                    <include name="testPUTUpdateBugOne"/>
+                    <include name="testPATCHUpdateBugTwo"/>
+                    <include name="testDELETEAllBugs"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

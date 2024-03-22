@@ -1,0 +1,22 @@
+[
+    {
+        "bugId": "c293ef19-7f0a-49cd-89cf-3c30fa6122b6",
+        "createdBy": "Joseph Wang",
+        "createdOn": "2024-03-22T14:20:58.190542",
+        "updatedOn": "2024-03-22T14:20:58.190542",
+        "priority": 3,
+        "severity": "High",
+        "title": "Cannot filter by category",
+        "completed": false
+    },
+    {
+        "bugId": "7040e187-9919-4507-9e3c-130c9d38aef6",
+        "createdBy": "Norah Jones",
+        "createdOn": "2024-03-22T14:21:09.431189",
+        "updatedOn": "2024-03-22T14:21:09.431189",
+        "priority": 0,
+        "severity": "Critical",
+        "title": "Home page does not load",
+        "completed": false
+    }
+]

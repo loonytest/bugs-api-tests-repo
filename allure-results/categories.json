@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Test Ignored",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "Problem in the API",
+    "messageRegex": ".*Expected status code.* but was.*",
+    "matchedStatuses": ["failed", "broken"]
+  },
+  {
+    "name": "Problem in Test",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Passed",
+    "messageRegex": ".*",
+    "matchedStatuses": ["passed"]
+  }
+]

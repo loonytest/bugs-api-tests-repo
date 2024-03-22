@@ -1,0 +1,10 @@
+{
+    "bugId": "0cb9b253-8693-48a4-9e69-060f89eb13c6",
+    "createdBy": "Joseph Wang",
+    "createdOn": "2024-03-22T14:50:41.724086",
+    "updatedOn": "2024-03-22T14:50:41.724086",
+    "priority": 3,
+    "severity": "High",
+    "title": "Cannot filter by category",
+    "completed": false
+}
